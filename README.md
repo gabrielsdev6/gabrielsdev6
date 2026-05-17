@@ -39,14 +39,7 @@ Atualmente expandindo conhecimentos em mobile com React Native e aprofundando pr
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=gabrielsdev6&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=6e7681&text_color=8b949e&cache_seconds=86400" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsdev6&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&langs_count=6&cache_seconds=86400" />
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielsdev6&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=6e7681&point=ffffff&area=true)
+<img src="https://streak-stats.demolab.com?user=gabrielsdev6&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&stroke=30363d" />
 
 </div>
 
