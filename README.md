@@ -5,6 +5,7 @@
 <br/>
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-07060f?style=for-the-badge&logo=vercel&logoColor=a78bfa)](https://gabrielsdev6.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-07060f?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://www.linkedin.com/in/gabrielpereiraj/)
 [![GitHub](https://img.shields.io/badge/GitHub-07060f?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/gabrielsdev6)
 
 </div>
