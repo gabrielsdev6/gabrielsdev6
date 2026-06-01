@@ -1,5 +1,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Archivo&weight=700&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Gabriel+Pereira;Turning+ideas+into+interfaces;Building+things+for+the+web" alt="Typing animation" />
+
+  <br/>
+
+  [![Portfólio](https://img.shields.io/badge/Portfólio-0d1117?style=flat-square&logo=vercel&logoColor=ffffff)](https://gabrielsdev6.vercel.app)
+  &nbsp;
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/gabrielpereiraj/)
 </div>
 
 <br/>
