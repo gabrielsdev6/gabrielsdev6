@@ -44,7 +44,7 @@ Desenvolvedor de Software focado em construir produtos digitais do início ao fi
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=gabrielsdev6&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&stroke=30363d" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsdev6&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&langs_count=8" />
 
 </div>
 
