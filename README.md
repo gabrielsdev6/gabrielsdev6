@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Archivo&weight=700&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Gabriel+Pereira;Frontend+Developer;Turning+ideas+into+interfaces" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Archivo&weight=700&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Gabriel+Pereira;Turning+ideas+into+interfaces;Building+things+for+the+web" alt="Typing animation" />
 </div>
 
 <br/>
@@ -32,6 +32,7 @@ Atualmente expandindo conhecimentos em mobile com React Native e aprofundando pr
 | [**Sistema de Agendamento**](https://github.com/gabrielsdev6/agendamento) | Aplicação fullstack com autenticação JWT, dois perfis de acesso e CRUD de agendamentos. [→ Demo](https://agendamento-amber.vercel.app) | React · Node.js · PostgreSQL |
 | [**HemoAlerta**](https://github.com/gabrielsdev6/HemoAlerta) | App mobile para alertas de doação de sangue com pedidos urgentes em tempo real e localização de hemocentros. | React Native · Expo · Firebase |
 | [**Portfólio**](https://github.com/gabrielsdev6/portifolio) | Site de portfólio com animações customizadas e formulário de contato. [→ Demo](https://gabrielsdev6.vercel.app) | React · Tailwind · EmailJS |
+| [**Ana Flávia Goulart**](https://github.com/gabrielsdev6/ana-flavia-goulart-portfolio) | Site institucional para beauty artist com galeria de trabalhos, lightbox e agendamento via WhatsApp. [→ Demo](https://ana-flavia-goulart.vercel.app) | HTML · CSS · JS |
 
 ---
 
