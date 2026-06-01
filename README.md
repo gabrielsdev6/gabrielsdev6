@@ -4,9 +4,7 @@
 
 <br/>
 
-Desenvolvedor Frontend focado em construir interfaces funcionais e bem projetadas. Trabalho com React no dia a dia e tenho experiência em projetos fullstack com Node.js e banco de dados relacional.
-
-Atualmente expandindo conhecimentos em mobile com React Native e aprofundando práticas de UI/UX.
+Desenvolvedor de Software focado em construir produtos digitais do início ao fim — web, mobile e o que vier. Trabalho com React, React Native e Node.js e tenho experiência em projetos que vão do banco de dados à interface.
 
 ---
 
