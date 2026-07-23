@@ -10,7 +10,7 @@
 
 <br/>
 
-Desenvolvedor de Software focado em construir produtos digitais do início ao fim — web, mobile e o que vier. Trabalho com React, React Native e Node.js e tenho experiência em projetos que vão do banco de dados à interface.
+Desenvolvedor de Software focado em construir produtos digitais do início ao fim — web, mobile. Trabalho com React, React Native, Node.js, Java e tenho experiência em projetos que vão do banco de dados à interface.
 
 ---
 
